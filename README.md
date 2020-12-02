@@ -1,3 +1,3 @@
 # Hi y'all 👋
 
-![](coding.gif)
+![](coding_cat.gif)
